@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
 type: "CS 412: Machine Learning"
 permalink: /teaching/2020-spring-teaching-1
