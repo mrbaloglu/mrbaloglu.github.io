@@ -4,7 +4,7 @@ collection: teaching
 type: "CS 201: Introduction to Computing"
 permalink: /teaching/2020-fall-teaching-1
 venue: "Sabanci University, Department of Computer Science and Engineering"
-date: 2020-Fall
+date: 2020-10-01
 location: "Intanbul, Turkey"
 ---
 
