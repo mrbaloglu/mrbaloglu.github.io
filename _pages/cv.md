@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Bilkent University, 2020
+* M.S. in Computer Science and Engineering, Sabanci University, ongoing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022 - Present: Data Scientist
+  * Soostone.Inc
+  * Duties Included: Data cleansing and analytics, creating predictive modeling platforms with PyTorch and other machine learning libraries.
+  * Applying containerization technologies with Docker on a multiple container network consisting of an mlflow-server and prediction server created with Flask and PostgreSQL.
+ 
+* January 2021 - April 2022: Research Assistant
+  * Fulfilled teaching assistant responsibilities for CS201: Introduction to Programming with C++ and CS412: Machine Learning courses. Responsibilities included preparing and grading homeworks, projects, quizzes and some exam questions, holding office hours and teaching on recitations.
+  * Assisted the department chair and other faculty members on preparation of course documents & statistics and contributed to the departments' effort on getting MÜDEK (Association for Evaluation and Accreditation of Engineering Programs) accreditation.
+       
+* Summer 2019: Research Intern
+  * Sabanci University
+  * Duties included: On the scope of PURE (Program for Undergraduate Research), made a research on Post-Quantum Crypthography algorithms Kyber and Dilithium.
+  * Supervisor: Professor Erkay Savaş
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Machine Learning Intern
+  * Migraine.Ai
+  * Duties included: Using the data given, after data cleansing and analysis, implemented machine learning models for a classification task.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning
+  * NLP
+  * Deep Learning
+  * Reinforcement Learning
+* Data Analysis & Cleansing
+  * Pandas
+  * SQL
+
+
 
 Publications
 ======
@@ -56,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Contributed as a volunteer TDP (Raising our Tomorrows Project) in Bilkent University.
