@@ -8,7 +8,7 @@ date: 2021-Spring
 location: "Istanbul, Turkey"
 ---
 
-Fulfilled TA duties for the course CS 412: Machine Learning. Prepared and held weekly recitations, helped preparation of quizzes, homeworks and couse project. Held regular office hours. 
+Fulfilled TA duties for the course CS 412: Machine Learning on terms Spring 2020/21, Summer 2020/21 and Fall 2021/22. Prepared and held weekly recitations, helped preparation of quizzes, homeworks and couse project. Held regular office hours. 
 
 Heading 1
 ======
