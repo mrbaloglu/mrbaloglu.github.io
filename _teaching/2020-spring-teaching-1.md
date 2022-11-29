@@ -4,7 +4,7 @@ collection: teaching
 type: "CS 412: Machine Learning"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Sabanci University, Department of Computer Science and Engineering"
-date: Spring-2020/21, Summer-2020/21, Fall-2021/22
+date: 2021-Spring
 location: "Istanbul, Turkey"
 ---
 
